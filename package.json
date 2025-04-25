@@ -1,6 +1,6 @@
 {
   "name": "reading-time-calc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight utility to estimate reading time from raw text or HTML.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
