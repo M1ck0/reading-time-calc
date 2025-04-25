@@ -1,0 +1,27 @@
+{
+  "name": "reading-time-calc",
+  "version": "1.0.0",
+  "description": "Lightweight utility to estimate reading time from raw text or HTML.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/reading-time-calc.git"
+  },
+  "keywords": [
+    "reading",
+    "time",
+    "text",
+    "html",
+    "utility"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
